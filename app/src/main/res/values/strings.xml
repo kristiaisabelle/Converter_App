@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="logo">Logo</string>
+    <string name="title">Lorem Ipsum</string>
+    <string name="caption">Lorem ipsum dolor sit amet!</string>
+    <string name="sub_caption">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt </string>
+    <string name="start">Let\'s Start</string>
+    <string name="home">Welcome!</string>
+    <string name="home_caption">What do you want to convert today?</string>
+    <string name="length">Length</string>
+    <string name="volume">Volume</string>
+    <string name="mass">Mass</string>
+    <string name="temp">Temperature</string>
+    <string name="time">Time</string>
+    <string name="length_caption">Length and Distance conversion calculator for metric and imperial units including Kilometers, Miles, Meters, Feet and Inches</string>
+    <string name="symbol">nm</string>
+    <string name="symbol_name">Nanometer</string>
+    <string name="on_boarding_img">on_boarding img</string>
+    <string name="menu_icon">menu_icon</string>
+    <string name="length_box">length box</string>
+    <string name="tape">tape</string>
+    <string name="volume_box">volume box</string>
+    <string name="mass_box">mass box</string>
+    <string name="temp_box">temp box</string>
+    <string name="time_box">time box</string>
+    <string name="nav_bar">nav_Bar</string>
+    <string name="calc">Calc</string>
+    <string name="home_nav">Home</string>
+</resources>
